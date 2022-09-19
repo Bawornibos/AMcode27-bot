@@ -74,10 +74,10 @@
   "devDependencies": {},
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/vihangayt0/VihangaBot-MD-V2.git"
+    "url": "git+https://github.com/Bawornibos/AMcode27-bot/VihangaBot-MD-V2.git"
   },
   "bugs": {
-    "url": "https://github.com/vihangayt0/VihangaBot-MD-V2/issues"
+    "url": "https://github.com/Bawornibos/AMcode27-bot/issues"
   },
-  "homepage": "https://github.com/vihangayt0/VihangaBot-MD-V2#readme"
+  "homepage": "https://github.com/Bawornibos/AMcode27-bot#readme"
 }
